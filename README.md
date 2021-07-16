@@ -1,5 +1,5 @@
 ### Javascript Fellows of The Bulb Africa
-`Check out what we are doing [BulbJavascriptCohort.github.io](https://bulbjavascriptcohort.github.io/)`
+`Check out what we are doing` [BulbJavascriptCohort.github.io](https://bulbjavascriptcohort.github.io/)
 
 ## General Class Project
 
