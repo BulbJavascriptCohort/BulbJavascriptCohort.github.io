@@ -8,7 +8,13 @@
 
 ## Individual Project
 1. Rabo ==>  ==> [backend]() ==> [frontend]() 
-2. Ebenezer ==> [Handout](https://wirehaired-mitten-09e.notion.site/HandOut-2dd9e195ca074b459dba4c5876f7f8bb) ==> [backend]() ==> [frontend]() 
+2. Ebenezer 
+
+- Project Idea [Handout](https://wirehaired-mitten-09e.notion.site/HandOut-2dd9e195ca074b459dba4c5876f7f8bb) 
+- Link To Backend Demo [backend]() 
+- Link To Frontend Demo [frontend]() 
+- Link To [Repo] (https://github.com/BulbJavascriptCohort/Handout)
+
 3. Matthew ==> [PAMS](https://www.notion.so/martmal/PAMS-92d047e2ed064416bf7c151a6ea5deff) ==> [backend]() ==> [frontend]() 
 4. Iyin ==> [RAM](https://www.notion.so/Random-Messaging-App-6d13f05d5f804dfb91a2cfc6c6916e7f) ==> [backend]() ==> [frontend]() 
 5. Lola ==>  ==> [backend]() ==> [frontend]() 
